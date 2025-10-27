@@ -1,0 +1,8 @@
+# Ignore datasets and large models
+horse_data/
+*.keras
+*.h5
+*.mp3
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
